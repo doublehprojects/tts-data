@@ -1,6 +1,7 @@
 # Text To Speech Training Data
 
 Max length 0 - 10 seconds
+
 Audio sample rate - 16 bit / 22050 Hz
 
 ---
